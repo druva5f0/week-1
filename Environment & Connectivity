@@ -1,5 +1,3 @@
- # WEEK 1: ENVIRONMENT & CONNECTIVITY
- 
 import sys
 import platform
 import socket
